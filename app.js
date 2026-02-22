@@ -1,3 +1,4 @@
+
 const condition = true;
 const myPromise = new Promise((resolve, reject) => {
 if (condition) {

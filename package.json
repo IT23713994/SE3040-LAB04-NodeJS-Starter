@@ -1,0 +1,19 @@
+{
+  "name": "se3040-lab04-nodejs-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IT23713994/SE3040-LAB04-NodeJS-Starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IT23713994/SE3040-LAB04-NodeJS-Starter/issues"
+  },
+  "homepage": "https://github.com/IT23713994/SE3040-LAB04-NodeJS-Starter#readme"
+}
